@@ -1,0 +1,21 @@
+kturtle-script-v1.0
+@(penwidth) 12
+@(pencolor) 178@(,)34@(,)34
+@(repeat) 10 {
+  @(forward) 50
+  @(turnleft) 108}
+@(turnleft) 90
+@(penup)
+@(forward) 24
+@(turnleft) 90
+@(pendown)
+@(penwidth) 6
+@(pencolor) 154@(,)205@(,)50
+@(forward) 100
+@(pencolor) 160@(,)82@(,)45
+@(turnleft) 90
+@(forward) 100
+@(backward) 100
+@(turnright) 180
+@(forward) 10
+@(forward) 100
